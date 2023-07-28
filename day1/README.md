@@ -1,4 +1,4 @@
-Host Link-https://github.com/VirendrKumarYadav/HTML/blob/master/day1/virendraResume.html
+Github Link-https://github.com/VirendrKumarYadav/HTML/blob/master/day1/virendraResume.html
 
 ![image](https://github.com/VirendrKumarYadav/HTML/assets/87600216/9ef96e66-684d-40d2-bb25-843d0db397bf)
 
