@@ -1,6 +1,7 @@
 Gtthub link:https://github.com/VirendrKumarYadav/HTML/new/master/hw_form/form.html
 
-Host Link:https://github.com/VirendrKumarYadav/HTML/new/master/hw_form/README.md
+Host Link:https://virendrkumaryadav.github.io/personal_form/
+
 ![image](https://github.com/VirendrKumarYadav/HTML/assets/87600216/e2daafc7-ba33-4afe-b337-d98ec476f56c)
 
 1. we have tag form inside that we can add many details of the form which i have to add.
